@@ -10,6 +10,16 @@
   "license": "ISC",
   "dependencies": {
     "pn": "^1.0.0",
-    "svg2png": "^4.1.1"
-  }
+    "svg2png": "^4.1.1",
+    "svg2png-many": "0.0.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiMagnusMueller/svg_to_png.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KaiMagnusMueller/svg_to_png/issues"
+  },
+  "homepage": "https://github.com/KaiMagnusMueller/svg_to_png#readme"
 }
