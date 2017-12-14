@@ -1,4 +1,6 @@
 
 node_modules/*
-
+png250/*
+png500/*
+png1000/*
 package-lock.json
